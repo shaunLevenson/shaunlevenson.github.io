@@ -1,0 +1,92 @@
+* [33m59042bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add portfolio website
+* [33m7efa603[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Delete _config.yml
+* [33m2aca92e[m Delete index.html
+* [33m62cedb1[m Delete projects directory
+* [33mb581227[m Delete assets directory
+* [33m1f8fe24[m Update index.html
+* [33m6cef45c[m Add profile picture styling and image to header
+* [33m25cf92f[m Rename README.md to index.html
+* [33m9e4705b[m Refactor README styling and content
+* [33m0052557[m Rename index.md to README.md
+* [33m7e68fbe[m Rename README.md to index.md
+* [33m601ac37[m Transform README to HTML format
+* [33m8eb7645[m Fix formatting in README for Techniques section
+* [33m9298edb[m Update _config.yml
+* [33m601c3a5[m Add files via upload
+* [33m8cb214a[m Create pda
+* [33m669a1cd[m Add logo field to configuration
+* [33md9cae3c[m Update link for Direct Marketing Optimization project
+* [33mb12ad52[m Fix project link for Federal Funds Rate Target Assessment
+* [33m61243f2[m Fix project links in README.md
+* [33maed7712[m Fix Capstone project link in README
+* [33m38d147c[m Fix formatting in education section of README
+* [33m1bdafed[m Delete projects/Environmental/dsa
+* [33m9085c50[m Change project links to relative URLs
+* [33mcb6c824[m Fix Capstone project link in README
+* [33mef0a854[m Correct link format in README for marketing project
+* [33m26b67c6[m Fix project links in README.md
+* [33m132ad9b[m Fix project link in README.md
+* [33m85d2022[m Update project link in README.md
+* [33md6cb7fd[m Fix project link for Capstone GDP Forecast
+* [33m94e3280[m Add project links to policy briefs in README
+* [33m585bac0[m Fix link case sensitivity in project details
+* [33m966d8d4[m Update README.md
+* [33m14a4c6f[m Delete projects/Analytics/final_project_eda.html
+* [33m8a0f6ce[m Delete projects/Analytics/final_project_modelling.html
+* [33mb5bcbea[m Add files via upload
+* [33m2ec8369[m Delete projects/Analytics/plac
+* [33m95083d7[m Update GPA from 3.6 to 3.61 in README
+* [33mf6e7a00[m Fix formatting in README education section
+* [33m1387456[m Delete projects/CERF/pas
+* [33mea61158[m Add files via upload
+* [33m69ec4c4[m Add files via upload
+* [33m63e96d4[m Add initial pas file with placeholder content
+* [33me44bcd0[m Add files via upload
+* [33me1675cf[m Delete projects/Capstone/placeholder
+* [33md962a55[m Delete projects/Macro-2/555_Policy_Brief_SL.pptx
+* [33m7b0aa34[m Delete projects/Macro-2/555_Policy_Brief_Report.docx
+* [33m0282c7b[m Add files via upload
+* [33mfe99d51[m Add files via upload
+* [33m89161e1[m Add dsa directory under Environmental project
+* [33mc5c765d[m Delete contact.md
+* [33m8feee16[m Add files via upload
+* [33m2843251[m Add new plac file in Analytics directory
+* [33m8e1f21e[m Delete projects/Macro-2/plac
+* [33me51decb[m Add files via upload
+* [33mee0176c[m Add plac file to Macro-2 project
+* [33m5ee7fe0[m Delete projects/capstone
+* [33mbc6c774[m Add files via upload
+* [33m2825685[m Add placeholder file to Capstone project
+* [33mdc88faa[m Delete Tech-Industry-Production.pptx
+* [33mf619241[m Delete FinalProject_Report.docx
+* [33m99a85fe[m Delete FinalProject.pptx
+* [33m4099810[m Delete Capstone_Final_Report.docx
+* [33m866bf61[m Delete 555_Policy_Brief_SL.pptx
+* [33mf57040d[m Delete 555_Policy_Brief_Report.docx
+* [33m205f933[m Delete 531_Policy_Brief_Report.docx
+* [33mb10929a[m Delete 531_Fed_Rate_Target.pptx
+* [33m86c1cef[m Add placeholder file to capstone project
+* [33m3e87754[m Add files via upload
+* [33mc2e12b5[m Enhance README with detailed experience and education
+* [33m8a6a775[m Revise README by removing experience and skill details
+* [33mece1170[m Add Project Details section to README
+* [33m17f9012[m Format skills section with underlined headings
+* [33m17a7668[m Fix formatting and update award details in README
+* [33mc49c04e[m Revise README with education and skillset updates
+* [33m1499029[m Revise README with updated experience and education
+* [33mf05b20e[m Add education section to README
+* [33m0b971fd[m Fix formatting of job title in README
+* [33m9d1b1e6[m Update job title formatting in README.md
+* [33m6b4cb7c[m Enhance README with Graduate Assistant experience details
+* [33m5d3eab8[m Fix formatting of job title in README
+* [33ma1094ad[m Fix formatting in professional experience section
+* [33m0926c65[m Format contact information with line breaks
+* [33mf76f912[m Add contact information and professional experience to README
+* [33mc66df4a[m Update README with new title and description
+* [33m03632dc[m Update permalink for contact page
+* [33mb397c88[m Modify description in _config.yml
+* [33m2a01c08[m Add description to _config.yml
+* [33m9fd8951[m Add theme configuration to _config.yml
+* [33m5b44fd7[m Fix YAML syntax for title and description
+* [33meb2e69c[m Add title and description to config file
+* [33ma49c758[m Initial commit
