@@ -145,6 +145,11 @@ body {
     font-size: 0.9rem;
 }
 
+.detail-table th:first-child,
+.detail-table td:first-child {
+    white-space: nowrap;
+}
+
 .pill-list {
     display: flex;
     flex-wrap: wrap;
