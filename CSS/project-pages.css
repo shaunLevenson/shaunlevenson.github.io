@@ -50,6 +50,29 @@
 	text-align: center;
 }
 
+.project-figure {
+	margin: 0;
+}
+
+.project-figure a {
+	display: block;
+}
+
+.project-figure img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border: 1px solid #cbd5e1;
+	border-radius: 8px;
+}
+
+.project-figure figcaption {
+	margin-top: 12px;
+	color: #64748b;
+	font-size: 0.95rem;
+	line-height: 1.5;
+}
+
 @media (max-width: 800px) {
 	.project-meta {
 		flex-direction: column;
