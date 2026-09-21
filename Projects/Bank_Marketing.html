@@ -15,40 +15,63 @@
 
     <main class="page-shell">
         <section class="project-hero">
-            <p class="eyebrow">Project Type: [Add type]</p>
+            <p class="eyebrow">Predictive modeling · Classification</p>
             <h1>Bank Marketing</h1>
-            <p class="project-placeholder">[Add a one- or two-sentence project summary.]</p>
+            <p class="project-intro">A predictive modeling project focused on identifying the customer characteristics and campaign conditions associated with successful bank marketing outcomes.</p>
             <div class="project-meta">
                 <span>Date: [Add date]</span>
                 <span>Tools: [Add tools]</span>
                 <span>Role: [Add role]</span>
             </div>
+            <div class="project-actions">
+                <a class="btn btn-primary" href="#model-output">View model output</a>
+                <a class="btn btn-secondary" href="#dataset">Dataset access</a>
+            </div>
+        </section>
+
+        <section class="project-summary" aria-label="Project at a glance">
+            <article class="summary-item">
+                <h2>Research question</h2>
+                <p>Which customer and campaign features predict a successful marketing outcome?</p>
+            </article>
+            <article class="summary-item">
+                <h2>Outcome</h2>
+                <p>[Define the target variable and what counts as a successful outcome.]</p>
+            </article>
+            <article class="summary-item">
+                <h2>Decision use</h2>
+                <p>[Explain how the model could support targeting, prioritization, or resource allocation.]</p>
+            </article>
         </section>
 
         <section class="content-card project-section">
-            <h2>Overview</h2>
-            <p class="project-placeholder">[Describe the question, context, or motivation behind this project.]</p>
+            <h2>Research question and scope</h2>
+            <p>[Describe the bank marketing campaign, the population represented in the data, and the business decision the analysis is intended to support.]</p>
+            <p>[Add any important scope limits, assumptions, or definition of the response variable.]</p>
         </section>
 
         <section class="content-grid">
             <article class="content-card project-section">
-                <h2>Process</h2>
-                <p class="project-placeholder">[Describe the data, methods, and major steps.]</p>
+                <h2>Method</h2>
+                <p>[Describe data preparation, exploratory analysis, feature selection, and the classification model used.]</p>
+                <p>[Add the evaluation approach, such as a train-test split, cross-validation, accuracy, precision, recall, or ROC-AUC.]</p>
             </article>
             <article class="content-card project-section">
-                <h2>Findings</h2>
-                <p class="project-placeholder">[Summarize the most important result or takeaway.]</p>
+                <h2>Key finding</h2>
+                <p>[Summarize the strongest predictors and what the model suggests about campaign response.]</p>
+                <p class="project-placeholder">[Add the most important model-performance result or practical recommendation.]</p>
             </article>
         </section>
 
-        <section class="content-card project-section">
-            <h2>Charts and deliverables</h2>
-            <div class="chart-placeholder">[Add primary chart, dashboard screenshot, or model output]</div>
-            <p class="chart-description"><strong>Chart description:</strong> [Explain what the chart shows, define the axes and measures, and state the main takeaway in plain language.]</p>
+        <section id="model-output" class="content-card project-section">
+            <p class="eyebrow">Primary visual</p>
+            <h2>Model performance and interpretation</h2>
+            <div class="chart-placeholder">[Add confusion matrix, ROC curve, feature-importance chart, or dashboard screenshot]</div>
+            <p class="chart-description"><strong>How to read this visual:</strong> [Define the axes, measures, or classes, then state the main modeling takeaway in plain language.]</p>
         </section>
 
         <section class="research-grid" aria-label="Project research resources">
-            <article class="research-card">
+            <article id="dataset" class="research-card">
                 <h3>Dataset access</h3>
                 <p class="project-placeholder">[Add a direct download, repository folder, or public source for the dataset. Include the file format and access date.]</p>
                 <a class="btn btn-secondary" href="#">[Open dataset]</a>
@@ -63,8 +86,8 @@
         </section>
 
         <section class="content-card project-section">
-            <h2>Links</h2>
-            <p class="project-placeholder">[Add a repository, report, dashboard, or related resource.]</p>
+            <h2>Project files</h2>
+            <p class="project-placeholder">[Add the report, code repository, dashboard, or supplementary model files here.]</p>
             <div class="project-links">
                 <a class="btn btn-secondary" href="#">[Add project link]</a>
             </div>
