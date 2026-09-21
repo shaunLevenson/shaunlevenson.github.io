@@ -6,6 +6,19 @@
 	margin-bottom: 12px;
 }
 
+.project-hero .project-intro {
+	max-width: 760px;
+	font-size: 1.1rem;
+	color: #334155;
+}
+
+.project-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	margin-top: 20px;
+}
+
 .project-meta {
 	display: flex;
 	flex-wrap: wrap;
@@ -25,6 +38,34 @@
 
 .project-section h2 {
 	margin-top: 0;
+}
+
+.project-summary {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 16px;
+	margin-bottom: 24px;
+}
+
+.summary-item {
+	padding: 18px 20px;
+	background: #eaf2ff;
+	border-left: 4px solid #2563eb;
+	border-radius: 8px;
+}
+
+.summary-item h2 {
+	margin: 0 0 6px;
+	font-size: 0.85rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: #1e40af;
+}
+
+.summary-item p {
+	margin: 0;
+	font-weight: 600;
+	color: #1e293b;
 }
 
 .research-grid {
@@ -136,6 +177,10 @@
 	}
 
 	.research-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.project-summary {
 		grid-template-columns: 1fr;
 	}
 }
