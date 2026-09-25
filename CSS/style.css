@@ -59,6 +59,12 @@ body {
     color: #111827;
 }
 
+.btn-tertiary {
+    background-color: transparent;
+    border: 1px solid #2563eb;
+    color: #1d4ed8;
+}
+
 .profile-photo {
     width: 100%;
     max-width: 280px;
